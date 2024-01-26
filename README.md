@@ -5,6 +5,8 @@ The purpose was to focus on the development of an entrepreneurial business plan 
 ## <div align="center"> Background </div>
 My proposal for an application focused on health care and insurance services for university students was recognized among the top ten. Consequently, I was appointed as the CEO of WellnessLink. I led a team of four, each member appointed to a key executive role —Chief Financial Officer, Chief Marketing Officer, Chief Operating Officer, or Chief Strategy Officer— based on their distinct skill sets.
 
+## <div align="center"> WellnessLink </div>
+
 ### Founded By
       • Chief Executive Officer - Zane Bjornerud
       • Chief Financial Officer - Jeff Miller
