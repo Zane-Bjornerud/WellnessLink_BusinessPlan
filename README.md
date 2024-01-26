@@ -7,7 +7,11 @@ My proposal for an application focused on health care and insurance services for
 
 ## <div align="center"> WellnessLink </div>
 
-<div align="center"> ![image](https://github.com/Zane-Bjornerud/WellnessLink_BusinessPlan/assets/122947902/d5c5acb7-3c5d-4a05-a77f-49863b23ad77) </div>
+<p align="center">
+![image](https://github.com/Zane-Bjornerud/WellnessLink_BusinessPlan/assets/122947902/d5c5acb7-3c5d-4a05-a77f-49863b23ad77)
+</p>
+
+
 
 
 ### Founded By
